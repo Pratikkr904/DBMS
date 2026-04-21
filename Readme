@@ -1,0 +1,21 @@
+# Grocery Store Management System 🛒
+
+## 📌 Overview
+This is a basic Grocery Store Management System with a dashboard UI and MySQL database schema.
+
+## 🚀 Features
+- Dashboard with revenue stats
+- Product and inventory tracking
+- Orders and customer data
+- SQL schema with sample data
+
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- MySQL
+
+## ▶️ How to Run
+1. Open `gsms_frontend.html` in browser
+2. Import `gsms_backend.sql` into MySQL
+
+## 📸 Screenshot
+![Dashboard](Dashboard.png)
